@@ -13,6 +13,8 @@ import plotly.express as px
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+pip freeze
+
 precio_alq = pd.read_csv('/content/drive/MyDrive/DATOS/GCBA/Vivienda/precio-alquiler-deptos.csv')
 precio_vta = pd.read_csv('/content/drive/MyDrive/DATOS/GCBA/Vivienda/precio-venta-deptos.csv')
 
